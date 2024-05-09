@@ -1,0 +1,63 @@
+header {
+    background: #0C111F;
+    padding-top: 44px;
+    padding-bottom: 44px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.login {
+    text-decoration: none;
+    padding: 18px 30px;
+    border: none;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #0D0E25;
+    background: #FFFFFF;
+    border-radius: 100px;
+}
+
+.logo{
+    width: 250px;
+}
+.socials {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
+
+.right_social {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.socials_c {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+hr {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+select {
+    padding: 5px;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+
+option {
+    padding: 5px;
+}

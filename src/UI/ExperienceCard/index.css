@@ -1,0 +1,26 @@
+.card {
+  
+    display: flex;
+    align-items: center;
+    gap: 34px;
+
+}
+
+.card_title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    text-transform: capitalize;
+    color: #0C111F;
+}
+
+.card_description {
+    padding-top: 18px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 180%;
+    color: #0C111F;
+    opacity: 0.6;
+}
